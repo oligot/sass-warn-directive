@@ -1,0 +1,9 @@
+{
+  "name": "sass-warn-directive",
+  "version": "0.0.0",
+  "description": "@warn directive bug in dart-sass",
+  "dependencies": {
+    "node-sass": "^4.11.0",
+    "sass": "^1.16.1"
+  }
+}
